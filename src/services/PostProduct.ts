@@ -1,8 +1,6 @@
-import IPostProduct from '../DTOs/IPostProduct';
-
 class PostProduct {
-  public async execute({ url }: IPostProduct): Promise<void> {
-    console.log(url);
+  public async execute(): Promise<void> {
+    console.log('sex');
   }
 }
 

@@ -7,3 +7,6 @@ ecosystem.config.js
 
 yarn.lock
 yarn-error.log
+
+public/images/*
+!public/images/.gitkeep

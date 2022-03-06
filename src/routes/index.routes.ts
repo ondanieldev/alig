@@ -10,7 +10,7 @@ routes.post(
   '/',
   celebrate({
     [Segments.BODY]: {
-      url: Joi.string().required(),
+      aliexpressProductUrl: Joi.string().required(),
     },
   }),
   controller.postProduct,
