@@ -1,18 +1,18 @@
 <div align="center">
   <a href="https://alig.ondaniel.com.br/">
     <div>
-      <h1 style="color: #4299E1">ALIG</h1>
+      <h1 style="color: #ff0000">ALIG</h1>
     </div>
     <img src="./public/assets/alig.svg" width="100" height="100">
   </a>
   <br>
   <br>
   <div>
-    <a href="https://img.shields.io/github/v/tag/ondanieldev/alig?color=d150ff&style=for-the-badge">
-      <img src="https://img.shields.io/github/v/tag/ondanieldev/alig?color=d150ff&style=for-the-badge">
+    <a href="https://img.shields.io/github/v/tag/ondanieldev/alig?color=ff0000&style=for-the-badge">
+      <img src="https://img.shields.io/github/v/tag/ondanieldev/alig?color=ff0000&style=for-the-badge">
     </a>
-    <a href="https://img.shields.io/github/license/ondanieldev/alig?color=0000ff&style=for-the-badge">
-      <img src="https://img.shields.io/github/license/ondanieldev/alig?color=0000ff&style=for-the-badge">
+    <a href="https://img.shields.io/github/license/ondanieldev/alig?color=ffa500&style=for-the-badge">
+      <img src="https://img.shields.io/github/license/ondanieldev/alig?color=ffa500&style=for-the-badge">
     </a>
   </div>
   <hr>
@@ -29,9 +29,9 @@
 
 ## Endpoints
 
-| METHOD | PATH | SHORT DESCRIPTION |
-| ------ | ---- | ----------------- |
-|        |      |                   |
+| METHOD | PATH | SHORT DESCRIPTION                                  |
+| ------ | ---- | -------------------------------------------------- |
+| POST   | /    | Get an aliexpress product and post it on instagram |
 
 ## How to run
 

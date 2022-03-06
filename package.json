@@ -1,9 +1,9 @@
 {
-    "name": "usocial",
+    "name": "alig",
     "version": "1.0.0",
     "description": "search images and social media links of a person given info",
     "main": "index.js",
-    "repository": "git@github.com:ondanieldev/usocial",
+    "repository": "git@github.com:ondanieldev/alig",
     "author": "ondanieldev <me@ondaniel.com.br>",
     "license": "MIT",
     "private": true,
