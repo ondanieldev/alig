@@ -35,11 +35,27 @@
 
 ## How to run
 
-1.
+1. Install project dependencies:
+
+   `npm install` or `yarn install`
+
+2. Copy `.env.example` located at the root folder to a new `.env` file and fill it with your instagram account credentials.
+
+3. Run project:
+
+   `npm run dev` or `yarn dev`
 
 ## How to build
 
-1.
+1. Generate `build` folder:
+
+   `npm run build` or `yarn build`
+
+2. Copy `ecosystem.config.example.js` located at the root folder to a new `ecosystem.config.js` file.
+
+3. Run project:
+
+   `npm run start` or `yarn start`
 
 ## How to contribute
 
