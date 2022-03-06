@@ -31,7 +31,7 @@ class GetProductInfo {
 
     // get title
     await aliexpress.waitForSelector('h1.product-title-text');
-    const title = await aliexpress.$eval(
+    const caption = await aliexpress.$eval(
       'h1.product-title-text',
       el => el.innerHTML,
     );
@@ -41,9 +41,8 @@ class GetProductInfo {
 
     // return info
     return {
-      description: 'Test',
+      caption,
       image,
-      title,
     };
   }
 }

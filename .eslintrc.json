@@ -38,7 +38,8 @@
         }
       ],
       "no-plusplus": "off",
-      "no-await-in-loop": "off"
+      "no-await-in-loop": "off",
+      "no-promise-executor-return": "off"
     },
     "settings": {
       "import/resolver": {

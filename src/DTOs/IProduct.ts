@@ -1,7 +1,6 @@
 interface IProduct {
   image: string;
-  title: string;
-  description: string;
+  caption: string;
 }
 
 export default IProduct;
