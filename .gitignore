@@ -1,0 +1,9 @@
+dist
+.vscode
+node_modules
+
+.env
+ecosystem.config.js
+
+yarn.lock
+yarn-error.log
